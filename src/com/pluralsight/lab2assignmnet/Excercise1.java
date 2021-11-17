@@ -18,7 +18,7 @@ public class Excercise1 {
 			}
 		}
 		secondSmallest = arr[1];
-		return secondSmallest;
+		return secondSmallest; 
 	}
 	public static void main(String[] args) {
 		int array[] = {1,9,7,6,10,22};

@@ -17,7 +17,7 @@ public class Exercise4 {
 					if (i % j == 0)
 						p = 1;
 				}
-				if (p == 0) 
+				if (p == 0)  
 					System.out.println(i);
 			}
 		}

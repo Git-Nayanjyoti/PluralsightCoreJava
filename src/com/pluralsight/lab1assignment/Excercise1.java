@@ -12,7 +12,7 @@ public class Excercise1 {
 			digit = num % 10;
 			num = num / 10;
 			sum += Math.pow(digit, 3); 
-		}
+		} 
 		return sum;
 	}
 	public static void main(String[] args) {
